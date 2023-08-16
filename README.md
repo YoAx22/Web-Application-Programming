@@ -35,9 +35,14 @@ It is designed to display information about favorite things, images, and travel 
 ### Usage
 -  Load the HTML file using an HTML reader in the same folder as the CSS file
 
-## Project #3: []()
 
-
-### Methods
+## Project #3: [Interactive Square Boxes](https://github.com/YoAx22/Web-Application-Programming/tree/main/Interactive%20Boxes)
+This HTML page demonstrates the use of Bootstrap for styling, CSS for customizations, and jQuery for interactive features. The page contains a grid of square boxes that users can customize and manipulate using the provided buttons.
 
 ### Usage
+- Open the HTML page in a web browser.
+- Interact with the buttons to toggle colors, rounded borders, and add new boxes.
+
+
+
+
