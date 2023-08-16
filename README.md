@@ -28,14 +28,12 @@ Run the compiled program with the necessary command-line arguments: ID, hostname
 -     java socketClient <ID> <hostname> <port>
 
 
-## Project #2: [AboutMe Webpage]()
-
-
-### Methods
-
+## Project #2: [AboutMe Webpage](https://github.com/YoAx22/Web-Application-Programming/tree/main/AboutMeWebPage)
+This HTML page showcases various elements like headings, paragraphs, unordered lists, images, and maps. 
+It is designed to display information about favorite things, images, and travel experiences and consists of three main sections, each contained within a separate div element.
 
 ### Usage
-
+-  Load the HTML file using an HTML reader in the same folder as the CSS file
 
 ## Project #3: []()
 
