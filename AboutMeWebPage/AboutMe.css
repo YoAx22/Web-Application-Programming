@@ -1,0 +1,100 @@
+.div1 {
+	border: dashed blue 15px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+.div1 h1 {
+	color: red;
+	text-decoration: underline;
+	text-indent: 10px;
+}
+
+.div1 h2 {
+	text-align: center;
+	font: italic bold 30px/15px TimesNewRoman;
+
+}
+
+.div1 p {
+	font: bold 15px/15px TimesNewRoman;
+	text-indent: 5px;
+}
+	
+.div1 ul {
+	color: blue;
+	text-align: center;	
+}
+
+
+
+.div2 {
+	border: solid green 10px;
+	border-radius: 15px; 
+	border-left-color: darkgreen;
+	border-top-color: darkgreen;	
+	margin-right: 50px;
+	padding: 15px;
+
+}
+
+#divTwo {
+	float: right;	
+}
+
+
+.div2 h1 {
+	color: green;
+	text-decoration: underline;
+	text-indent: 10px;
+}
+
+.div2 h2 {
+	text-align: center;
+}
+
+.div2 p {
+	text-align: center;
+}
+
+.div2 img {
+  margin: auto;
+  display: block;
+}
+
+.div3 {
+	border: double darkred 5px;
+	border-radius: 10px;
+	border-top-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	margin-left: 60px;
+	margin-bottom: 200px;
+	padding: 25px;
+	width: 35%;
+}
+
+#lastDiv {
+	float: left;	
+}
+
+.div3 h1 {
+	color: blue;
+	text-decoration: overline;
+	text-align: center;
+}
+
+
+.div3 h2 {
+	text-align: center;
+	font: bold 50px/25px TimesNewRoman;
+}
+
+.div3 p {
+	text-align: center;
+	text-decoration: underline;
+}
+
+
+
