@@ -43,6 +43,17 @@ This HTML page demonstrates the use of Bootstrap for styling, CSS for customizat
 - Open the HTML page in a web browser.
 - Interact with the buttons to toggle colors, rounded borders, and add new boxes.
 
+## Project #4: [System Information Dashboard](https://github.com/YoAx22/Web-Application-Programming/tree/main/SysInfoDash)
+This web application displays system information retrieved via AJAX requests from a server. It presents real-time data about disk usage, root processes, load averages, and network statistics.
+
+The JavaScript code (info.js) is responsible for making AJAX requests to the server and updating the dashboard with the received data. It contains functions to retrieve disk usage, root processes, load averages, and network statistics. The data is displayed on the dashboard using jQuery.
+
+### Usage
+- Open the index.html file in a web browser.
+- The dashboard will display real-time information about disk usage, root processes, load averages, and network statistics.
+- The data will be updated automatically at a set interval.
 
 
+## Project #5: []()
 
+### Usage
