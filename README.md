@@ -52,8 +52,3 @@ The JavaScript code (info.js) is responsible for making AJAX requests to the ser
 - Open the index.html file in a web browser.
 - The dashboard will display real-time information about disk usage, root processes, load averages, and network statistics.
 - The data will be updated automatically at a set interval.
-
-
-## Project #5: []()
-
-### Usage
